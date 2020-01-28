@@ -1,0 +1,12 @@
+﻿{
+	"editors": [
+		{
+			"type": "form",
+			"id": 81,
+			"formName": "フォーム1"
+		},
+		{
+			"type": "explorer"
+		}
+	]
+}
