@@ -39,13 +39,123 @@
 				"すごいボタン": {
 					"type": "button",
 					"text": "Button",
-					"top": 126,
-					"left": 158,
-					"width": 352,
-					"height": 360,
+					"top": 25,
+					"left": 49,
+					"width": 239,
+					"height": 220,
 					"events": [
 						"onClick"
 					]
+				},
+				"Text": {
+					"type": "text",
+					"text": "ぎゃーーー",
+					"top": 32,
+					"left": 49,
+					"width": 204,
+					"height": 31,
+					"fontWeight": "bold",
+					"fontStyle": "italic",
+					"stroke": "#ff6347"
+				},
+				"Text1": {
+					"type": "text",
+					"text": "ぎゃーーー",
+					"top": 52,
+					"left": 69,
+					"width": 204,
+					"height": 31,
+					"fontWeight": "bold",
+					"fontStyle": "italic",
+					"stroke": "#ff6347"
+				},
+				"Text2": {
+					"type": "text",
+					"text": "ぎゃーーー",
+					"top": 72,
+					"left": 89,
+					"width": 204,
+					"height": 31,
+					"fontWeight": "bold",
+					"fontStyle": "italic",
+					"stroke": "#ff6347"
+				},
+				"Text3": {
+					"type": "text",
+					"text": "ぎゃーーー",
+					"top": 92,
+					"left": 109,
+					"width": 204,
+					"height": 31,
+					"fontWeight": "bold",
+					"fontStyle": "italic",
+					"stroke": "#ff6347"
+				},
+				"Text4": {
+					"type": "text",
+					"text": "ぎゃーーー",
+					"top": 112,
+					"left": 129,
+					"width": 204,
+					"height": 31,
+					"fontWeight": "bold",
+					"fontStyle": "italic",
+					"stroke": "#ff6347"
+				},
+				"Text5": {
+					"type": "text",
+					"text": "ぎゃーーー",
+					"top": 132,
+					"left": 149,
+					"width": 204,
+					"height": 31,
+					"fontWeight": "bold",
+					"fontStyle": "italic",
+					"stroke": "#ff6347"
+				},
+				"Text6": {
+					"type": "text",
+					"text": "ぎゃーーー",
+					"top": 152,
+					"left": 169,
+					"width": 204,
+					"height": 31,
+					"fontWeight": "bold",
+					"fontStyle": "italic",
+					"stroke": "#ff6347"
+				},
+				"Text7": {
+					"type": "text",
+					"text": "ぎゃーーー",
+					"top": 172,
+					"left": 189,
+					"width": 204,
+					"height": 31,
+					"fontWeight": "bold",
+					"fontStyle": "italic",
+					"stroke": "#ff6347"
+				},
+				"Text8": {
+					"type": "text",
+					"text": "ぎゃーーー",
+					"top": 192,
+					"left": 209,
+					"width": 204,
+					"height": 31,
+					"fontWeight": "bold",
+					"fontStyle": "italic",
+					"stroke": "#ff6347"
+				},
+				"Text9": {
+					"type": "text",
+					"text": "ぎゃーーー",
+					"top": 212,
+					"left": 229,
+					"width": 204,
+					"height": 31,
+					"fontWeight": "bold",
+					"fontStyle": "italic",
+					"stroke": "#ff6347"
 				}
 			}
 		}
