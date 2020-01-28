@@ -36,13 +36,13 @@
 		},
 		{
 			"objects": {
-				"Button": {
+				"すごいボタン": {
 					"type": "button",
 					"text": "Button",
 					"top": 126,
 					"left": 158,
 					"width": 352,
-					"height": 160,
+					"height": 360,
 					"events": [
 						"onClick"
 					]
